@@ -3,7 +3,9 @@
     "impact": "high",
     "annual_estimate": {
       "wh": "175.87T",
-      "co2": "98.10Mt"
+      "wh-comparison": "Comparable to the annual electricity consumption of Argentina (approximately 131 TWh).",
+      "co2": "98.10Mt",
+      "co2-comparison": "Comparable to the annual carbon emissions of Ukraine (approximately 100 Mt CO2)."
     },
     "description": "High-volume transactions, real-time processing, and global infrastructure",
     "source": "https://digiconomist.net/bitcoin-energy-consumption"
@@ -12,7 +14,9 @@
     "impact": "high",
     "annual_estimate": {
       "wh": "0.11T",
-      "co2": "843.1Mt"
+      "wh-comparison": "Equivalent to powering 110,000 average homes for a year.",
+      "co2": "843.1Mt",
+      "co2-comparison": "Comparable to the annual carbon emissions of Germany (approximately 760 Mt CO2)."
     },
     "description": "High-bandwidth video content delivery requires significant data center resources and CDN infrastructure",
     "source": "https://s22.q4cdn.com/959853165/files/doc_downloads/2024/6/2023-Netflix-Environmental-Social-Governance-Report.pdf"
@@ -21,25 +25,31 @@
     "impact": "high",
     "annual_estimate": {
       "wh": "1T",
-      "co2": "50Mt"
+      "wh-comparison": "Equivalent to the annual electricity consumption of Egypt (approximately 200 TWh).",
+      "co2": "50Mt",
+      "co2-comparison": "Comparable to the annual carbon emissions of Myanmar (approximately 50 Mt CO2)."
     },
     "description": "Complex algorithms, real-time feeds, and massive user bases require extensive computational resources",
     "source": "https://www.theguardian.com/technology/2024/dec/12/tiktok-carbon-footprint"
   },
   "search_engine": {
-    "impact": "high",
+    "impact": "medium",
     "annual_estimate": {
       "wh": "25.9T",
-      "co2": "0.9Mt"
+      "wh-comparison": "Comparable to the annual electricity consumption of Sri Lanka (approximately 16 TWh).",
+      "co2": "0.9Mt",
+      "co2-comparison": "Equivalent to the annual emissions from 180,000 passenger cars."
     },
     "description": "Massive index maintenance, real-time query processing, and global infrastructure",
     "source": "https://salience.co.uk/insight/magazine/the-carbon-footprint-of-search/"
   },
   "cloud_storage": {
-    "impact": "medium",
+    "impact": "high",
     "annual_estimate": {
       "wh": "200T",
-      "co2": "0.74Gt"
+      "wh-comparison": "Comparable to the annual electricity consumption of South Africa (approximately 230 TWh).",
+      "co2": "0.74Gt",
+      "co2-comparison": "Comparable to the annual carbon emissions of Iran (approximately 740 Mt CO2)."
     },
     "description": "Data redundancy, synchronization, and global accessibility require distributed storage systems",
     "source": "https://thereader.mitpress.mit.edu/the-staggering-ecological-impacts-of-computation-and-the-cloud/"
@@ -48,7 +58,9 @@
     "impact": "low",
     "annual_estimate": {
       "wh": "100M",
-      "co2": "18.25Mt"
+      "wh-comparison": "Equivalent to powering 10,000 average homes for a year.",
+      "co2": "18.25Mt",
+      "co2-comparison": "Comparable to the annual carbon emissions of Jordan (approximately 19 Mt CO2)."
     },
     "description": "Relatively efficient text-based communication with minimal computational overhead",
     "source": "https://thinkdigitalgreen.de/100-milliarden-messages-18-millionen-baeume/"
@@ -57,7 +69,9 @@
     "impact": "medium",
     "annual_estimate": {
       "wh": "0.464T",
-      "co2": "2.1Mt"
+      "wh-comparison": "Equivalent to powering 464,000 average homes for a year.",
+      "co2": "2.1Mt",
+      "co2-comparison": "Equivalent to the annual emissions from 420,000 passenger cars."
     },
     "description": "Product catalogs, recommendation engines, and transaction processing require moderate resources",
     "source": "https://static.ebayinc.com/static/assets/Uploads/Documents/eBay-Impact-2024-Report.pdf"
@@ -66,54 +80,64 @@
     "impact": "medium",
     "annual_estimate": {
       "wh": "1287M",
-      "co2": "0,5Mt"
+      "wh-comparison": "Equivalent to powering 128,700 average homes for a year.",
+      "co2": "0.5Mt",
+      "co2-comparison": "Equivalent to the annual emissions from 100,000 passenger cars."
     },
     "description": "AI model inference requires significant computational power but lower total usage than mass platforms",
     "source": "https://carboncredits.com/how-big-is-the-co2-footprint-of-ai-models-chatgpts-emissions/"
   },
   "news_media": {
-    "impact": "low",
+    "impact": "medium",
     "annual_estimate": {
       "wh": "0.15T",
-      "co2": "408Mt"
+      "wh-comparison": "Equivalent to powering 150,000 average homes for a year.",
+      "co2": "408Mt",
+      "co2-comparison": "Comparable to the annual carbon emissions of South Africa (approximately 410 Mt CO2)."
     },
     "description": "Content delivery with moderate multimedia requirements and CDN usage",
     "source": "https://www.bbc.co.uk/aboutthebbc/documents/ara-2023-24.pdf"
   },
   "gaming": {
-    "impact": "high",
+    "impact": "medium",
     "annual_estimate": {
       "wh": "0.08T",
-      "co2": "183Mt"
+      "wh-comparison": "Equivalent to powering 80,000 average homes for a year.",
+      "co2": "183Mt",
+      "co2-comparison": "Comparable to the annual carbon emissions of Bangladesh (approximately 180 Mt CO2)."
     },
     "description": "Real-time multiplayer processing, graphics rendering, and low-latency requirements",
     "source": "https://media.contentapi.ea.com/content/dam/eacom/common/ea-impact-report-23.pdf"
   },
   "productivity": {
-    "impact": "low",
+    "impact": "high",
     "annual_estimate": {
       "wh": "30.2T",
-      "co2": "15.5Mt"
+      "wh-comparison": "Comparable to the annual electricity consumption of Chile (approximately 80 TWh).",
+      "co2": "15.5Mt",
+      "co2-comparison": "Comparable to the annual carbon emissions of Cambodia (approximately 15 Mt CO2)."
     },
     "description": "Document processing and collaboration tools with moderate computational needs",
     "source": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2025-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf"
   },
-
   "music_streaming": {
-    "impact": "low",
+    "impact": "medium",
     "annual_estimate": {
       "wh": "2T",
-      "co2": "0.195Mt"
+      "wh-comparison": "Equivalent to powering 2 million average homes for a year.",
+      "co2": "0.195Mt",
+      "co2-comparison": "Equivalent to the annual emissions from 39,000 passenger cars."
     },
     "description": "Audio streaming requires less bandwidth than video but still significant due to scale",
     "source": "https://www.lifeatspotify.com/reports/Spotify-Equity-Impact-Report-2024.pdf"
   },
-
   "educational": {
     "impact": "low",
     "annual_estimate": {
       "wh": "963M",
-      "co2": "0.027Mt"
+      "wh-comparison": "Equivalent to powering 96,300 average homes for a year.",
+      "co2": "0.027Mt",
+      "co2-comparison": "Equivalent to the annual emissions from 5,400 passenger cars."
     },
     "description": "Content delivery and interactive learning tools with moderate resource requirements",
     "source": "https://about.udemy.com/wp-content/uploads/2024/10/2024-Impact-Report-and-SASB-Disclosure-Table.pdf"
@@ -122,7 +146,9 @@
     "impact": "medium",
     "annual_estimate": {
       "wh": "0.33T",
-      "co2": "13.07Mt"
+      "wh-comparison": "Equivalent to powering 330,000 average homes for a year.",
+      "co2": "13.07Mt",
+      "co2-comparison": "Comparable to the annual carbon emissions of Paraguay (approximately 13 Mt CO2)."
     },
     "description": "Real-time pricing, availability checking, and booking systems require constant data processing",
     "source": "https://www.responsibilityreports.com/HostedData/ResponsibilityReportArchive/u/NYSE_UBER_2022.pdf"
@@ -130,28 +156,34 @@
   "navigation": {
     "impact": "medium",
     "annual_estimate": {
-      "wh": "4T",
-      "co2": "2Mt"
+      "wh": "15.5T",
+      "wh-comparison": "Comparable to the annual electricity consumption of Finland (approximately 85 TWh).",
+      "co2": "10.3Mt",
+      "co2-comparison": "Comparable to the annual carbon emissions of Tunisia (approximately 10 Mt CO2)."
     },
     "description": "Real-time traffic data, route calculation, and location services require continuous processing",
-    "source": ""
+    "source": "https://www.cnbc.com/2022/04/13/google-data-center-goal-100percent-green-energy-by-2030.html"
   },
   "email": {
-    "impact": "low",
+    "impact": "medium",
     "annual_estimate": {
-      "wh": "2T",
-      "co2": "1Mt"
+      "wh": "1.6T",
+      "wh-comparison": "Equivalent to powering 3.6 million average homes for a year.",
+      "co2": "1.8Mt",
+      "co2-comparison": "Equivalent to the annual emissions from 360,000 passenger cars."
     },
     "description": "Email storage and delivery with minimal real-time processing requirements",
-    "source": ""
+    "source": "https://www.nature.com/articles/d41586-018-06610-y"
   },
   "developer_tools": {
     "impact": "medium",
     "annual_estimate": {
-      "wh": "6T",
-      "co2": "3Mt"
+      "wh": "1.2T",
+      "wh-comparison": "Equivalent to powering 1.2 million average homes for a year.",
+      "co2": "1.6Mt",
+      "co2-comparison": "Equivalent to the annual emissions from 320,000 passenger cars."
     },
     "description": "Code compilation, CI/CD pipelines, and development environments require substantial processing power",
-    "source": ""
+    "source": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msc/documents/presentations/CSR/2025-Microsoft-Environmental-Data-Fact-Sheet-PDF.pdf"
   }
 }
